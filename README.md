@@ -21,7 +21,6 @@ Um conversor de moedas que utiliza a API para obter cotações em tempo real.
 ### Pré-requisitos
 - Java JDK 11+
 - Maven 3.6+
-- Chave de API gratuita do [ExchangeRate-API](https://www.exchangerate-api.com/)
 
 ### Passo a Passo
 1. Clone o repositório:
